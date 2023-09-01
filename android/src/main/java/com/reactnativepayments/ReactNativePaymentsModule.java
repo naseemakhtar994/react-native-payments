@@ -5,12 +5,10 @@ import android.view.WindowManager;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.annotation.NonNull;
-import android.app.Fragment;
-import android.app.FragmentManager;
-import android.support.annotation.RequiresPermission;
 import android.util.Log;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactBridge;
